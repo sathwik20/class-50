@@ -1,0 +1,12 @@
+h1{
+    color:black;
+}
+*{
+    border: solid;
+}
+.header{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+
